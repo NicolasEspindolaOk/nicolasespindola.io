@@ -849,6 +849,11 @@ body {
     margin-bottom: 60px;
 }
 
+.linea2{
+  border-top: 5px solid #0078ff;
+  margin-bottom: 30px;
+}
+
 .contenedor-imagenes{
     display:flex;
     width: 85%;
